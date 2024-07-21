@@ -22,7 +22,7 @@ Estudando programação desde os 16 e atuando na área desde 17, sou um desenvol
 <p align="left"> 
   Atualmente trabalhando na <strong> IXCSoft</strong>, como desenvolvedor Backend.
   
-  <img src="./ixcsoft" alt="IXC" />
+  <img src="./ixc.png" alt="IXC" />
 </p>
 
 ### 🦄 Linguagens com maior afinidade:
