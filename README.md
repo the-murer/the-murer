@@ -20,12 +20,12 @@ Estudando programação desde os 16 e atuando na área desde 17, sou um desenvol
 
 ### 🎩 Trabalho atual:
 <p align="left"> 
-  Atualmente trabalhando na <strong> IXCSoft</strong>, como desenvolvedor Backend.
+  Atualmente trabalhando na <strong> IXC Soft</strong>, como desenvolvedor Backend.
   
   <img src="./ixc.png" height="50" alt="IXC" />
 </p>
 
-### 🦄 Linguagens com maior afinidade:
+### 🦄 Tecnologias com maior afinidade:
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
